@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlieCharboneau
 - 👀 I’m an NYC-based Codesmith student 
-- 🌱 I’m currently learning CSS, HTML, JS, react, redux
+- 🌱 I’m currently learning CSS, HTML, JS, react, redux as a Codesmith student
 - 📫 How to reach me: charlie.m.charboneau@gmail.com
 
 <!---
