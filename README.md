@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlieCharboneau
-- 👀 I’m an NYC-based Codesmith resident 
+- 👀 I’m an NYC-based Software Engineer 
 - 📫 How to reach me: charlie.m.charboneau@gmail.com
 
 <!---
