@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlieCharboneau
-- 👀 Experienced Software Engineer building cool stuff with Typescript, Next.js, Node.js, and Express (and whatever else the occasion calls for).
+- 👀 I build stuff with Typescript, Next.js, Node.js, and Express (and whatever else the occasion calls for).
 - 📫 Give me a shout at: charlie.m.charboneau@gmail.com
 
 <!---
