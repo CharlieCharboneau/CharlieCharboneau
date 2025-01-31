@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CharlieCharboneau
-- 👀 I build things with Typescript, React, Redux, Next.js, Node.js, Express and whatever else the occasion calls for.
+- Hey, I’m @CharlieCharboneau
+- Currently, I'm build apps with Typescript, React, Redux, Next.js, Node.js, Express and whatever else the occasion calls for.
 - 📫 Give me a shout at: charlie.m.charboneau@gmail.com
 
 <!---
