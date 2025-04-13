@@ -1,6 +1,6 @@
 - Hey, I’m @CharlieCharboneau
 - I build full stack web applications with whatever tech stack the occassion calls for.
-- 📫 Give me a shout at charlie.m.charboneau@gmail.com
+- 📫 For any employment or collaboration inquiries, give me a shout at charlie.m.charboneau@gmail.com
 
 
 <br/>
