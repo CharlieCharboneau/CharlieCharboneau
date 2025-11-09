@@ -1,6 +1,6 @@
 - Hey, I’m @CharlieCharboneau
 - Building scalable web applications.
-- 📫 For employment or collaboration inquiries - charlie.m.charboneau@gmail.com
+- For employment or collaboration inquiries - charlie.m.charboneau@gmail.com
 
 
 <br/>
