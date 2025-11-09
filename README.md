@@ -1,5 +1,5 @@
 - Hey, I’m @CharlieCharboneau
-- Building scalable web applications.
+- Software engineer building scalable web applications.
 - For employment or collaboration inquiries - charlie.m.charboneau@gmail.com
 
 
