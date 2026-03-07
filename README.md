@@ -1,1 +1,1 @@
-- For employment or collaboration inquiries - charlie.m.charboneau@gmail.com
+- Please direct fan / hate mail to charlie.m.charboneau@gmail.com
